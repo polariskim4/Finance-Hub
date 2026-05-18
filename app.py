@@ -44,7 +44,7 @@ apps = [
     {"name": "2. 레버리지 ETF 스코어 보드", "url": "https://etf-web-tracker.streamlit.app/", "desc": "전고점 대비 하락율 및 전저점 대비 상승률 조합 점수"},
     {"name": "3. S&P 100 종목 트래커", "url": "https://sp100-mdd-tracke-ictjee8mzgte7j2bahnyrh.streamlit.app/", "desc": "S&P 500 주요 종목의 가격 위치 분석 및 점수 부여"},
     {"name": "4. Nasdaq 100 종목 트래커", "url": "https://ndx-mdd-tracker-us2xqn6nmbp45cmmw4ia9l.streamlit.app/", "desc": "나스닥 100 주요 종목의 가격 위치 분석 및 점수 부여"},
-    {"name": "5. 미국주식 MDD 확인", "url": "https://https://find-mdd-3qryxn4gmeexn5tnbgjjhx.streamlit.app//", "desc": "미국 개별주 및 ETF 과거 MDD 확인"},
+    {"name": "5. 미국주식 MDD 확인", "url": "https://https://find-mdd-3qryxn4gmeexn5tnbgjjhx.streamlit.app/", "desc": "미국 개별주 및 ETF 과거 MDD 확인"},
     {"name": "6. 미국주식 재무 비교", "url": "https://stock-dashboard-tle5fvdmqujrqrvrqdb8c3.streamlit.app/", "desc": "미국 개별주 vs 벤치마크 종목 주요 재무지표 비교"},
     {"name": "7. 레버리지 시뮬레이터", "url": "https://leverage-visualizer-od6veunxjczztleqmnfc5k.streamlit.app/", "desc": "가상 2배 ETF와 벤치마크 간 수익률 및 MDD 비교"},
     {"name": "8. 한국주식 재무 비교", "url": "https://k-stock-uki3zdrrysorupc3qd5w7k.streamlit.app/", "desc": "한국 개별주 vs 벤치마크 종목 주요 재무지표 비교"},
