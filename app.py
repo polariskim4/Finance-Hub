@@ -45,7 +45,7 @@ apps = [
     {"name": "3. S&P 100 종목 트래커", "url": "https://sp100-mdd-tracke-ictjee8mzgte7j2bahnyrh.streamlit.app/", "desc": "S&P 500 주요 종목의 가격 위치 분석 및 점수 부여"},
     {"name": "4. Nasdaq 100 종목 트래커", "url": "https://ndx-mdd-tracker-us2xqn6nmbp45cmmw4ia9l.streamlit.app/", "desc": "나스닥 100 주요 종목의 가격 위치 분석 및 점수 부여"},
     {"name": "5. 미국주식 MDD 확인", "url": "https://find-mdd-3qryxn4gmeexn5tnbgjjhx.streamlit.app/", "desc": "미국 개별주 및 ETF 과거 MDD 확인"},
-    {"name": "6. 미국주식 재무 비교", "url": "https://stock-dashboard-tle5fvdmqujrqrvrqdb8c3.streamlit.app/", "desc": "미국 개별주 vs 벤치마크 종목 주요 재무지표 비교"},
+    {"name": "6. 미국주식 재무 비교", "url": "https://financial-info-ajfwuvldvohyl9q92uqlh8.streamlit.app/", "desc": "미국 개별주 vs 벤치마크 종목 주요 재무지표 비교"},
     {"name": "7. 레버리지 시뮬레이터", "url": "https://leverage-visualizer-od6veunxjczztleqmnfc5k.streamlit.app/", "desc": "가상 2배 ETF와 벤치마크 간 수익률 및 MDD 비교"},
     {"name": "8. 미국 주식 수익률", "url": "https://performance-evr93cdbzj6bznha8nbmby.streamlit.app/", "desc": "미국 주식 과거 수익률 및 올해 YTD 수익률, 한국 종목도 조회 가능"},
     {"name": "9. 한국주식 재무 비교", "url": "https://k-stock-uki3zdrrysorupc3qd5w7k.streamlit.app/", "desc": "한국 개별주 vs 벤치마크 종목 주요 재무지표 비교"},
