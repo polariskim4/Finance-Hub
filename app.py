@@ -52,8 +52,9 @@ apps = [
     {"name": "10. 한국주식 재무 비교", "url": "https://k-stock-uki3zdrrysorupc3qd5w7k.streamlit.app/", "desc": "한국 개별주 vs 벤치마크 종목 주요 재무지표 비교"},
     {"name": "11. 국내외 수익률 TOP 10", "url": "https://top-stock-bye8ingxzdftv9nlkc6cpr.streamlit.app/", "desc": "미국 및 한국 주식 수익률 상위 10종목 실시간 순위"},
     {"name": "12. 미국주식 원화 계산기", "url": "https://krw-amount-jpbvqirdphbhgwkwghsgiv.streamlit.app/", "desc": "미국 주식 매수시 종목, 수량 입력시 필요한 원화 금액 자동 계산"},
-    {"name": "13. 연준의 금리인상기 주도주", "url": "https://fed-hike-3enciihsqhhpqzygyvcsrk.streamlit.app/", "desc": "연준의 금리인상기 미국주식 수익률 상위 10 종목"},
-    {"name": "14. 은퇴 계산기", "url": "https://retirement-calculator-cxvfymmsjzvyicxm6yktvs.streamlit.app/", "desc": "노후 준비를 위한 자금 시뮬레이션"}
+    {"name": "13. 미국주식 밸류에이션 평가", "url": "https://stock-valuation-twugrgrqhxk6tvmljz3xmw.streamlit.app/", "desc": "미국 주식 과거 및 경쟁 종목 대비 밸류에이션 평가"},
+    {"name": "14. 연준의 금리인상기 주도주", "url": "https://fed-hike-3enciihsqhhpqzygyvcsrk.streamlit.app/", "desc": "연준의 금리인상기 미국주식 수익률 상위 10 종목"},
+    {"name": "15. 은퇴 계산기", "url": "https://retirement-calculator-cxvfymmsjzvyicxm6yktvs.streamlit.app/", "desc": "노후 준비를 위한 자금 시뮬레이션"}
 ]
 
 # 앱 리스트를 순회하며 카드 생성
